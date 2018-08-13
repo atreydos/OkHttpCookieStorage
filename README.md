@@ -25,7 +25,7 @@ dependencies {
 CookieStorage.init(this);
 ```
 
-**Step 2** Add interceptors to your **OkHttpClient**
+**Step 2** Add interceptors to your **OkHttpClient**.
 Example of use:
 ```java
  OkHttpClient.Builder()
