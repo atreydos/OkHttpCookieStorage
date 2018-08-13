@@ -14,7 +14,7 @@ maven { url 'https://jitpack.io' }
 **Step 2** Add the dependency
 ```grovy
 dependencies {
-     implementation 'com.github.atreydos:OkHttpCookieStorage:0.0.1'
+     implementation 'com.github.atreydos:OkHttpCookieStorage:0.0.3'
 }
 ```
 
